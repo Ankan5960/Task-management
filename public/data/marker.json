@@ -1,0 +1,42 @@
+[
+    {
+        "bin_id": 1,
+        "longitude": 88.3639,
+        "latitude": 22.5726,
+        "sensor_data": {
+            "weight": "20%",
+            "Air_quaility": "Good",
+            "is_fire": false
+        }
+    },
+    {
+        "bin_id": 2,
+        "longitude": 88.4000,
+        "latitude": 22.6000,
+        "sensor_data": {
+            "weight": "20%",
+            "Air_quaility": "Modrate",
+            "is_fire": true
+        }
+    },
+    {
+        "bin_id": 3,
+        "longitude": 88.4500,
+        "latitude": 22.5500,
+        "sensor_data": {
+            "weight": "20%",
+            "Air_quaility": "Dangerous",
+            "is_fire": false
+        }
+    },
+    {
+        "bin_id": 4,
+        "longitude":88.45162167139942,
+        "latitude": 22.58019790079311,
+        "sensor_data": {
+            "weight": "20%",
+            "Air_quaility": "Modrate",
+            "is_fire": true
+        }
+    }
+]
